@@ -30,8 +30,8 @@ This Repository Contains the Implementation of Railway Management System Built w
 
 - **Other Additional Applications Include :**
   
-  - Postman - for API Testing
+  - for API Testing
   
-  - ROBO3T - Mongo Visualizer
+  - Mongo Visualizer
 
 # Thank You
