@@ -2,7 +2,7 @@
 
 ## 🗣️Introduction
 
-**RouteRover** is a comprehensive train booking system designed to streamline the process of finding trains, booking tickets, and tracking live train positions. The project is built using React, Vite, Tailwind CSS for the frontend, Flask (Python) for the backend, and MySQL as the database. The system includes various features such as train search by station, number, or name, ticket booking with a unique ID generation, live train tracking, station information, user dashboard, contact forum, and an admin panel.
+**Railway** is a comprehensive train booking system designed to streamline the process of finding trains, booking tickets, and tracking live train positions. The project is built using React, Vite, Tailwind CSS for the frontend, Flask (Python) for the backend, and MySQL as the database. The system includes various features such as train search by station, number, or name, ticket booking with a unique ID generation, live train tracking, station information, user dashboard, contact forum, and an admin panel.
 
 ## ✨Features
 
