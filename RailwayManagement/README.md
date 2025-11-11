@@ -1,4 +1,4 @@
-# 🚅RouteRover - Train Booking System
+# 🚅RailwayManagement - Train Booking System
 
 ## 🗣️Introduction
 
@@ -48,12 +48,11 @@
 
 ## 👨🏻‍💻Installation
 
-1. Clone the repository: `git clone https://github.com/shrudex/routerover.git`
-2. Install dependencies:
+1. Install dependencies:
    - Frontend: `npm install`
    - Backend: `cd python && pip install -r requirements.txt`
-3. Configure the MySQL database by importing the provided SQL file.
-4. Set up environmental variables for the backend, including database credentials.
+2. Configure the MySQL database by importing the provided SQL file.
+3. Set up environmental variables for the backend, including database credentials.
 
 ## 🎯Usage
 
@@ -68,12 +67,9 @@
 ![image](https://github.com/shrudex/route-rover/assets/91502997/c269b755-0a74-4295-b9bf-3de01c94e882)
 ![image](https://github.com/shrudex/route-rover/assets/91502997/72a89d90-2c50-4220-b90f-4cf40eb6a4c3)
 
-## 🫱🏻‍🫲🏻Contributing
-
-Contributions are welcome! Clone the repository and send me a PR to merge, with valid contributions. 
 
 ## 🤙🏻Contact
 
-For inquiries, contact us at [realshubhsinha@gmail.com](mailto:realshubhsinha@gmail.com).
+For inquiries, contact us at [devanshdix15@gmail.com](mailto:Devanshdix15@gmail.com).
 
 ---
