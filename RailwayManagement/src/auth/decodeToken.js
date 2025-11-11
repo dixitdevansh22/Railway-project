@@ -1,7 +1,7 @@
 import jwt from "jsonwebtoken";
 
 // Define a secret key. You should replace this with your actual secret key.
-const secretKey = "shrudex-key";
+const secretKey = "Dev-key";
 
 // Create a function to decode the token and return user info.
 const decodeToken = (token) => {
